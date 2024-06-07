@@ -2,6 +2,10 @@
 ------------------
 This repository is an addition to the [main License Plate Recognition Project](https://github.com/rankum26/licenseplate-recognition-kumarran26). This repo is dedicated to training the model.
 
+Python version = 3.10.11
+
+Requirements: requirements.txt
+
 #Data Collection
 ------------------
 As mentioned in the main repository, I used my [own dataset](https://github.com/rankum26/licenseplate-recognition-training-kumarran26/tree/main/data_new/images/train) consisting of car pictures taken with my smartphone that clearly show license plates. 
