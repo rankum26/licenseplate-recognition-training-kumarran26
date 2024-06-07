@@ -1,0 +1,8 @@
+
+path: C:\Users\ranuj\Downloads\train_custom_model\data_new # dataset root dir
+train: images\train  # train images (relative to 'path')
+val: images\train  # val images (relative to 'path')
+
+# Classes
+names:
+  0: licenseplate
