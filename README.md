@@ -1,10 +1,10 @@
 #License Plate Recognition Training Repository
 ------------------
-This repository is an addition to the main License Plate Recognition Project. This repo is dedicated to training the model.
+This repository is an addition to the [main License Plate Recognition Project](https://github.com/rankum26/licenseplate-recognition-kumarran26). This repo is dedicated to training the model.
 
 #Data Collection
 ------------------
-As mentioned in the main repository, I used my own dataset consisting of car pictures taken with my smartphone that clearly show license plates. The dataset includes images with license plates from Switzerland, which are challenging to find in publicly available datasets.
+As mentioned in the main repository, I used my [own dataset](https://github.com/rankum26/licenseplate-recognition-training-kumarran26/tree/main/data_new/images/train) consisting of car pictures taken with my smartphone that clearly show license plates. 
 
 #Annotation
 ------------------
@@ -23,6 +23,29 @@ python main.py
 
 After the run, all results will be saved in the runs/detect folder. For example, train4 contains interesting analysis from the training process, such as the confusion matrix, F1 curve, labels, precision and recall curves, training batches, and validated batches with predictions.
 
+Confusion Matrix
+![alt text](runs\detect\train4\confusion_matrix.png)
+
+F1 Curve
+![alt text](runs\detect\train4\F1_curve.png)
+
+P Curve
+![alt text](runs\detect\train4\P_curve.png)
+
+R Curve
+![alt text](runs\detect\train4\R_curve.png)
+
+Results
+
+![alt text](runs\detect\train4\results.png)
+
+Batch labels
+![alt text](runs\detect\train4\val_batch0_labels.jpg)
+
+Batch Preditions
+![alt text](runs\detect\train4\val_batch2_pred.jpg)
+
+
 #Using trained Model
 ------------------
 You don't need to train your own model. You can test the trained model (train4), which was trained for 8.5 hours with 100 epochs.
@@ -39,6 +62,7 @@ python testing.py
 
 This script will perform predictions on the test images and visualize the results.
 
+![alt text](testing_runs\tested_IMG_0498.JPG) 
 
 #Help or Questions
 ------------------
