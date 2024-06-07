@@ -1,5 +1,5 @@
 
-path: C:\Users\ranuj\Downloads\train_custom_model\data_new # dataset root dir
+path: C:\Users\ranuj\Documents\6. Semester\Machine Learning II\ML2 Final Project\licenseplate-recognition-training-kumarran26\data_new # dataset root dir
 train: images\train  # train images (relative to 'path')
 val: images\train  # val images (relative to 'path')
 
