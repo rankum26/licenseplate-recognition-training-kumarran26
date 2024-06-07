@@ -62,7 +62,7 @@ python testing.py
 
 This script will perform predictions on the test images and visualize the results.
 
-![alt text](testing_runs\tested_IMG_0498.JPG) 
+![alt text](https://github.com/rankum26/licenseplate-recognition-training-kumarran26/blob/main/testing_runs/tested_IMG_0498.JPG) 
 
 #Help or Questions
 ------------------
