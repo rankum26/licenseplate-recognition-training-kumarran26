@@ -21,7 +21,7 @@ In main.py, you can configure the number of epochs and other parameters. After s
 
 python main.py
 
-After the run, all results will be saved in the runs/detect folder. For example, train4 contains interesting analysis from the training process, such as the confusion matrix, F1 curve, labels, precision and recall curves, training batches, and validated batches with predictions.
+After the run, all results will be saved in the runs/detect folder. For example, train4 contains interesting analysis from the training process, such as the confusion matrix, F1 curve, labels, precision and recall curves, training batches, and validated batches with predictions. The best model from the training process is stored as best.pt in the runs/detect/trainX folder, which is used in the main repo as my model. 
 
 Confusion Matrix
 ![alt text](https://github.com/rankum26/licenseplate-recognition-training-kumarran26/blob/main/runs/detect/train4/confusion_matrix.png)
