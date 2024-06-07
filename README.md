@@ -24,26 +24,26 @@ python main.py
 After the run, all results will be saved in the runs/detect folder. For example, train4 contains interesting analysis from the training process, such as the confusion matrix, F1 curve, labels, precision and recall curves, training batches, and validated batches with predictions.
 
 Confusion Matrix
-![alt text](runs\detect\train4\confusion_matrix.png)
+![alt text](https://github.com/rankum26/licenseplate-recognition-training-kumarran26/blob/main/runs/detect/train4/confusion_matrix.png)
 
 F1 Curve
-![alt text](runs\detect\train4\F1_curve.png)
+![alt text](https://github.com/rankum26/licenseplate-recognition-training-kumarran26/blob/main/runs/detect/train4/F1_curve.png)
 
 P Curve
-![alt text](runs\detect\train4\P_curve.png)
+![alt text](https://github.com/rankum26/licenseplate-recognition-training-kumarran26/blob/main/runs/detect/train4/P_curve.png)
 
 R Curve
-![alt text](runs\detect\train4\R_curve.png)
+![alt text](https://github.com/rankum26/licenseplate-recognition-training-kumarran26/blob/main/runs/detect/train4/R_curve.png)
 
 Results
 
-![alt text](runs\detect\train4\results.png)
+![alt text](https://github.com/rankum26/licenseplate-recognition-training-kumarran26/blob/main/runs/detect/train4/results.png)
 
 Batch labels
-![alt text](runs\detect\train4\val_batch0_labels.jpg)
+![alt text](https://github.com/rankum26/licenseplate-recognition-training-kumarran26/blob/main/runs/detect/train4/val_batch0_labels.jpg)
 
 Batch Preditions
-![alt text](runs\detect\train4\val_batch2_pred.jpg)
+![alt text](https://github.com/rankum26/licenseplate-recognition-training-kumarran26/blob/main/runs/detect/train4/val_batch2_pred.jpg)
 
 
 #Using trained Model
