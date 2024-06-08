@@ -68,6 +68,7 @@ This script will perform predictions on the test images and visualize the result
 
 ![alt text](https://github.com/rankum26/licenseplate-recognition-training-kumarran26/blob/main/testing_runs/tested_IMG_0498.JPG) 
 
+
 #Help or Questions
 ------------------
 If you need help don't hesitate to contact me over Teams: kumarran@students.zhaw.ch 
