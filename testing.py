@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import os
 
 # Load the trained model
-model = YOLO(r'C:\Users\ranuj\Documents\6. Semester\Machine Learning II\ML2 Final Project\licenseplate-recognition-training-kumarran26\runs\detect\train2-50epochs-4.5h\weights\best.pt')
+model = YOLO(r'C:\Users\ranuj\Documents\6. Semester\Machine Learning II\ML2 Final Project\licenseplate-recognition-training-kumarran26\runs\detect\train4-100epochs-8.5h\weights\best.pt')
 
 # Load an image for prediction
 image_path = r'testing_pictures\IMG_0031.JPG'
