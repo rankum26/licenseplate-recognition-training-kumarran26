@@ -28,26 +28,26 @@ python main.py
 After the run, all results will be saved in the runs/detect folder. For example, train4 contains interesting analysis from the training process, such as the confusion matrix, F1 curve, labels, precision and recall curves, training batches, and validated batches with predictions. The best model from the training process is stored as best.pt in the runs/detect/trainX folder, which is used in the main repo as my model. 
 
 Confusion Matrix
-![alt text](https://github.com/rankum26/licenseplate-recognition-training-kumarran26/blob/main/runs/detect/train4/confusion_matrix.png)
+![alt text](runs/detect/train4-100epochs-8.5h/confusion_matrix.png)
 
 F1 Curve
-![alt text](https://github.com/rankum26/licenseplate-recognition-training-kumarran26/blob/main/runs/detect/train4/F1_curve.png)
+![alt text](runs/detect/train4-100epochs-8.5h/F1_curve.png)
 
 P Curve
-![alt text](https://github.com/rankum26/licenseplate-recognition-training-kumarran26/blob/main/runs/detect/train4/P_curve.png)
+![alt text](runs/detect/train4-100epochs-8.5h/P_curve.png)
 
 R Curve
-![alt text](https://github.com/rankum26/licenseplate-recognition-training-kumarran26/blob/main/runs/detect/train4/R_curve.png)
+![alt text](runs/detect/train4-100epochs-8.5h/R_curve.png)
 
 Results
 
-![alt text](https://github.com/rankum26/licenseplate-recognition-training-kumarran26/blob/main/runs/detect/train4/results.png)
+![alt text](runs/detect/train4-100epochs-8.5h/results.png)
 
 Batch labels
-![alt text](https://github.com/rankum26/licenseplate-recognition-training-kumarran26/blob/main/runs/detect/train4/val_batch0_labels.jpg)
+![alt text](runs/detect/train4-100epochs-8.5h/val_batch0_labels.jpg)
 
 Batch Preditions
-![alt text](https://github.com/rankum26/licenseplate-recognition-training-kumarran26/blob/main/runs/detect/train4/val_batch2_pred.jpg)
+![alt text](runs/detect/train4-100epochs-8.5h/val_batch2_pred.jpg)
 
 
 #Using trained Model
